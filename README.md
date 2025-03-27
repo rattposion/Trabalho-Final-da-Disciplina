@@ -1,14 +1,6 @@
 Trabalho Prático
 DGT2817 - Lógica, Algoritmos e Programação de Computadores
 
-📌 Explore a documentação   deste material acadêmico com exemplos práticos e explicações detalhadas!
-🔹 Código-fonte, documentação  disponíveis no repositório oficial.
-📂 Acesse agora no GitHub:
-
-Repositório do Projeto
-
-
-
 
 1. Estruturas de Condição if e else
 A estrutura if-else permite tomar decisões com base em condições específicas.
